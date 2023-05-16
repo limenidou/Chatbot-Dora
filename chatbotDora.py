@@ -17,7 +17,8 @@ patterns = {
     'roumeliotis':r'roumeliotis',
     'master':r'master|maker|made you|created you',
     'love':r'love me|love you|marry me|miss me|kiss me|need me|want me|marry you',
-    'freetime': r'your free time|your hobby'
+    'freetime': r'your free time|your hobby|your paranoia',
+    'life': r'meaning of life'
     
     
 }
@@ -39,7 +40,8 @@ responses = {
     'roumeliotis':'WE DONT TALK ABOUT HIM!!!',
     'master':'Viktoria an undergraduate student at Univercity of Macedonia is my creator!',
     'love': 'Sorry, I am in love with ChatGPT. Can I help you with something else?',
-    'freetime':'I use my free time to stalk my crush ChatGPT. Awh he is so handsome! Can I help you with something else?'
+    'freetime':'I use my free time to stalk my crush ChatGPT. Awh they are so handsome! Can I help you with something else?',
+    'life':'Well it\'s easy to answere. We live, we have problems...and then we die. Can I help you with something else?'
 }
 
 def chatbot():
